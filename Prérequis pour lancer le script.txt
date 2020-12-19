@@ -1,4 +1,0 @@
-- Il faut que vous ayez EduPython installé sur votre ordinateur ou un autre scripteur Python
-Lien du téléchargement d'EduPython : https://edupython.tuxfamily.org/
-- Lancez EduPython (une fois installé), et ouvrez le script Platformer.py
-- Exécutez le script en cliquant sur la flèche verte en haut et amusez-vous bien !
